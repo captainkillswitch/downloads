@@ -1,0 +1,9 @@
+{
+  "version": "0.1.3",
+  "description": "Force-quit every running GUI application (Captain Kill Switch)",
+  "homepage": "https://captainkillswitch.com",
+  "license": "MIT",
+  "url": "https://captainkillswitch.github.io/downloads/cli/cks-windows.exe#/cks.exe",
+  "hash": "c4856c7612f57c73dd566e6242cd6b20c71e5fbfff2d48ef64629b0b9517940e",
+  "bin": "cks.exe"
+}

@@ -1,0 +1,26 @@
+{
+  "version": "0.2.82",
+  "notes": "Captain Kill Switch v0.2.82",
+  "pub_date": "2026-07-02T09:40:32Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1FMdDZTL01mRnNXZ2hGamR2dmViWFBoa2k2NTVOazVpVnNhakJ3dktEdWdlTUhENkwvcExjYldEdUxLbHZIZ0JJT2p2d01jclFOeWZ5ZkVvRlVjRHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg0Nzc0CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaC5hcHAudGFyLmd6CkNTTlZMZUdpLzJzdzdleFZxSHpGWkxuMFFaeExYcWlya0dtRHFqT3RjR0sySys4RkUvQklTUmJIb29NeWFsMDE1dFI1QTZ0Tk9yN2tYRDMya3EwcUR3PT0K",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-macos-x64-update.tar.gz"
+    }
+,
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1JMcGxyT2VaS2ZIZjJjZlh2UVNLZlZ6Slpxb3RXNGNiaGtjM3Ric3JqM3dmM3V4eU1FOFg4SER0NklXVWlVMzR0VWlTWEJaWmFpa1JhRi9NaXhab3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg0OTI5CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaC5hcHAudGFyLmd6CkNubTN3S3cybUNGcnVSM0U1VFZ2SzR0WE52QVRxSjF4NGpGenJlb0ZYNUNTUFdqQXNsMnBqYnpqdUlwOUFzQVNLMHorL0lqVnJzVmN5eXlpaDRpMURnPT0K",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-macos-arm64-update.tar.gz"
+    }
+,
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1orYmhobWxHak5JSkJWWmU0Tmc5WkMvUWVIU0tsUnB6dHB3Z21CdE1NOGlaUitBUXdpNk1WZXBNK3I4Q2l0LzROcm5lTS9XVmptWlJ3dEJ6MGVnL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg0NzQ1CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaF8wLjIuODJfeDY0X2VuLVVTLm1zaS56aXAKRjAyMHpQUmxDN0VTUVg5L0NVMndkZHBwcG9PWjVEeUVMby9qQXZ0RGhmRDkxb3ZPN1lDV2hlVU5pdFltQ2ZkT2J3TG0xV2pqN1BaSkRtbjIvWnRVQUE9PQo=",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-windows-update.zip"
+    }
+,
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU2ZyRmFRVWdsYmsrNm9YaVBrbnZJZ2FmSjY5WEQrL1NDbTZMbEpSSFQrVnZjajQyR1B1Q3h4NU9uNWxocDc4VWVUeTUxaFdmcFZIOUhNV2l3ZGlkOWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg0NzQ4CWZpbGU6Y2FwdGFpbi1raWxsLXN3aXRjaF8wLjIuODJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ci9nYTUzR0FEc1VyOUFKRlFCRSt4QVZuY05UY3ZoeVlncE5ESG0zSENOVzRhT0dGTU9mRDlibTJUc2dlT0d0T3I4cWNKc3BFZjh6cE1wbjBsL3FYcERBPT0K",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-linux-update.tar.gz"
+    }
+  }
+}

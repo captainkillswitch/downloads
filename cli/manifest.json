@@ -1,0 +1,13 @@
+{
+  "version": "0.1.3",
+  "files": {
+    "macos-universal": "cks-macos",
+    "windows-x64": "cks-windows.exe",
+    "linux-x64": "cks-linux"
+  },
+  "sha256": {
+    "macos-universal": "1c161337ff8856c28c28b80890ba0a8b8f0b74b9abad232a5b6a38aa69fd5fce",
+    "windows-x64": "c4856c7612f57c73dd566e6242cd6b20c71e5fbfff2d48ef64629b0b9517940e",
+    "linux-x64": "5b975474c827010fde35aa3f4b4cc4104615863c85bb67ec9b09ea3b94a7ab5a"
+  }
+}
