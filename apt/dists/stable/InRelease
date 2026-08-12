@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 09 Aug 2026 07:55:20 +0000
+Label: Captain Kill Switch
+Origin: Captain Kill Switch
+Suite: stable
+MD5Sum:
+ f16b6ab2f0095fe54d89881cd4be9d32              162 Release
+ c88055acd1236c5a1029fa03532cde71             1450 main/binary-amd64/Packages
+ 24fa80ae4fe9434437785c0e4e2900b8              768 main/binary-amd64/Packages.gz
+SHA1:
+ a1531f197f6a50fcda9406cc18403573cba44b22              162 Release
+ 045328e8f9267beef24ca7b8d93eadaf98b40595             1450 main/binary-amd64/Packages
+ 8877a6fc7e3135bfaccf3779819ad368397efaa9              768 main/binary-amd64/Packages.gz
+SHA256:
+ 48354b52bf4efa1c48f5d546d20815e25606ac99b8a241e32995294efbf200ed              162 Release
+ 8d3f30b6c0dfa5d355ce9c1d0d57e559cb70152c2fbc05f3d9fca5e447f07c7e             1450 main/binary-amd64/Packages
+ 60e47079e40af390863dfc675ec7b4d7fe5a15939dbdaec751d6cfa07fedb86d              768 main/binary-amd64/Packages.gz
+SHA512:
+ 9a552f3b24c66705e5ef050c57e1696d709d518465aee5e34e5694464c9adafa12f9b805011aeaad2c4f3ccc451d4572df13dc06a1b1d75472021987fc7ff722              162 Release
+ 38dd9350377d76d15c7ded3673219e23a50890e9be90bfe74656c388042fb67f1b803b2d0d580105fe055bcae42250df1f29246deb24465bcd40fce9e9ffa1b1             1450 main/binary-amd64/Packages
+ 63af5729d50c57f5cef446a9d5f1ef4a298e11a1302dd78b94b3701adf04034745d627e7af3f90c1aa551b011831497f9749a36cbfeb76e4b8d69fee96de8aee              768 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEyxxm686R8+k6pxF+hJ6xOwqkj/cFAmp4MmgACgkQhJ6xOwqk
+j/cp0hAAqU2Q9g5R8/frl9Hmdd6OdITQDjP9+vBfAb/K5Cs0cEnk+0ibbAPQuEv/
+zpJMbby9dJaH81GGQOIHQChM7bto6NGRsVlPbNu0TLsPFKplNRgy1duJIdvL8HtQ
+1blmP9d0pU+GYw2EG9Y64IE4rhij8ilGuje4Cm6gOVOJMXhHTgxO4sOv0uM53dfe
+WStnIlmsDmLz2NtW+bPi+93MZgULdCwntN9b2siF1q+Lp1qvZqs8a36SbWdGTCEW
+peUdckX7MLuO4h77YKkB4YCL4BnSZihE0ZpPX+bk/vCWEyjNqLNDXbU0bU7M8fSK
+/tbq0pbXlC9ud13XXE7kiIpehsMFVLxVPUOJk8IsZiFnNSkGiKkY6dwn70vPef1R
+sDqa61pOtshSN4nevXHe8QRqA9kqWIRcHYYCvUHRIWKFrUajSUCMpJ32dW2H8Utw
+4rLdQmOOmHJWsKwnNJKrKr5ohxtJ/ebsCXgTKY3GNkaPOAIgmApNE0mTAPIEdyZS
+7LjQe9FnJGo5NMHUr1166dSfnWvarOXZfMxvVy/WQBJ7hIHbPlKP5kU6Iibak13j
+2YqJBlwdF1Uxzt686/PWEFi5uMzn2DKqpYdykzbMAgvsYfbq2Can+0TtbnyQ2TNp
+cCo7FKuPTMpaSPikVx8vqL85zPgLc/4KCFxP8pst4vsxnvZbJDU=
+=Ji0Q
+-----END PGP SIGNATURE-----
