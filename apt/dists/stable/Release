@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 14 Aug 2026 00:51:35 +0000
+Label: Captain Kill Switch
+Origin: Captain Kill Switch
+Suite: stable
+MD5Sum:
+ bf12760f9b41aca7a5254d729321c5da              162 Release
+ a3268115ed8f8bb47385263967f0993b             1450 main/binary-amd64/Packages
+ 8595bef8234dc91d3bddd5194bdd40b4              767 main/binary-amd64/Packages.gz
+SHA1:
+ a226368a82ac54c231e12f56cb604c0f7de63213              162 Release
+ d469cbf44cd216198540741256c0d8721471675c             1450 main/binary-amd64/Packages
+ 2238f02d2649d9e2c67566f24b509bd20d85dd50              767 main/binary-amd64/Packages.gz
+SHA256:
+ 41a593e4a9bd172e70e4207efda27384a00ed3e6c125d1f44595ddf521386632              162 Release
+ 1b225c5284ca0715749ecb39a6122e84542d74d0828ef2104692e50e3c3472c7             1450 main/binary-amd64/Packages
+ 40cec9cdc409dd221c55372f9f5737b0a2a30dbd8c8bc4a7b226c5f7c7e5542a              767 main/binary-amd64/Packages.gz
+SHA512:
+ a9f6e621f597f7ac132bdce9b13f8d2da28de038230ea703d024a50f66c931c7ff1a028b18fdfd3987b7f97f9cccce5ed3a00d52023fecc5fd21757436be73a2              162 Release
+ 4d79f224766c76ee2558debbb3c7ab7da0e8a75adbf457ae6e5f0d2e8c786bd69812322d5b0bb43cf06f9297170d9ca08979db8b3542334cede6711d7c5cd740             1450 main/binary-amd64/Packages
+ 237a05a8a97e1f397a1465f311d8cda8cc79fd09b0e0cdfe17d35a5327fae3f47ebf15a25356d576f94c54b7e0940deac2fa9e1028eb2ca5e7f004a18e817091              767 main/binary-amd64/Packages.gz
