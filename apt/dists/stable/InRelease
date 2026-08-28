@@ -4,39 +4,39 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 28 Aug 2026 10:46:46 +0000
+Date: Fri, 28 Aug 2026 10:49:06 +0000
 Label: Captain Kill Switch
 Origin: Captain Kill Switch
 Suite: stable
 MD5Sum:
- c0181ae1ae3b8c9584baa30b7d77e150              162 Release
+ 09fd7a5a9ab5661b363f3266f93ac626              162 Release
  588b2e45150f782f293e1d2097b6ca4a             1450 main/binary-amd64/Packages
- 3ff5ad20e88f94280d5372b5ea0cbc05              765 main/binary-amd64/Packages.gz
+ 3f73564bdcd4f69248dd184b1e624e0b              765 main/binary-amd64/Packages.gz
 SHA1:
- affeaa811c05685ef73db49697fb06d5297d4860              162 Release
+ 325d3b381c1cef36df0140b13b6898371346763c              162 Release
  b837f74bba0e047c2a98717c2a7c858049a68af2             1450 main/binary-amd64/Packages
- 27a3dcf7aac64058d7b04d30bbdd426164339ff2              765 main/binary-amd64/Packages.gz
+ bc26102439ea52936831799381af51c1aba55122              765 main/binary-amd64/Packages.gz
 SHA256:
- 6e3c6ce42b41b2be3d732720f0e195186830e520421b504b62f976151679968d              162 Release
+ 23c76a0811d907bb8f05400c6e1756b18c3b1fa71b30b66a40cba68ffe3ba6a9              162 Release
  625ff95c5bf8e2f5269869db2d10ea36c9b568c21a28bca4b13ad4e9c288d253             1450 main/binary-amd64/Packages
- 475f4ac48122d998663c2697ac1618ad444b85f5eb5ef1c0f9cc8daf6189ec13              765 main/binary-amd64/Packages.gz
+ dc56f2506d181daeaedf8b1454911024c0319074bfc0b1a6db087f5dff695e81              765 main/binary-amd64/Packages.gz
 SHA512:
- 6b1e7a4cbe8c95bd6d4690f832e1a3ecbd36551ca8401b82b348a251227b81885917473cc96f931793cf7432dae100a52f24b5530a5410cdb1c9b63ff540bab8              162 Release
+ 76f82c37fab2ab503938db7765579785936cf76b31a8fe40cefb72b65cd1dd02bb2de1563a5d143d3c7d316691444db28c538a280add4d5518275c8701da8ae0              162 Release
  68cccd069386b01e8013fa609c3544f7477b9c0d1fa5917ceccebd4ba80d3fad16532f126dafbad300c6319da47dd1024cc15a9f37e409e23b3ed2473a250c7a             1450 main/binary-amd64/Packages
- adaf8e58a2be89c3e0c9abbecf59d65cd473544ea4ee5892d345eeb5a2092162c6c7112105f09004bf54af14a89701ebf35b292f7a04e57eca5e99abc88d8e2c              765 main/binary-amd64/Packages.gz
+ 40cca5a57ea60db342bedc4d3d2fdc04a87dc09f042c3a3e74014bbbe424833503e7daa67a906ef77ee08f2090d7ced6d6e7e3ea3b87a9ead4820730c55c6eec              765 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEyxxm686R8+k6pxF+hJ6xOwqkj/cFAmqRZxYACgkQhJ6xOwqk
-j/cTDBAAuauujdptOAM5B+jGoWgMEEGouDsPzcBwp6VznleGESi8asczlLUzMbJv
-OZlJrBPA+S040A8QTi1CzRJSFFYKOaTfqi/ExH/2IWKdwKiNBAvodDtaEANF+2CJ
-GXnWfoIOBu4Cptiab5C1PHHZJZJyW2eezBA829GPOrU+b/14hsYYhuA7kqgplsr8
-Tpn4P44LgdCCLjrpwvYUi9VixFs+u0uJbTXVJUzHfSXuaFTD+LLMHl8IaAG63fe6
-1SWrs48J4CjhwMpAfHgLftlXb0P+7lxqMmPEsdsOxraRuCcpK+SjEK6S8RpovPPU
-Tw6EDivRvz6bODzHVa+78NJkwYySrzXFZ2WwTxAEBAm+6pc9rr3ufPZLJC7stgj3
-YpieKTAIov71VuVKP3FeOGKEkSD9lQxS9puoTfznRa67Bt35r4HIK6wyJvp2Bjs/
-WXZfMg178zwputWDeHMyjI6MSf7jXXc3+di5wAYH4prJ/XPRVF9npZIrBBignC14
-wq1bQcsgsyAw52p2BG/Sjc17HQ9f+BfPIJ7OaB9J7FVonAnh4o8vdzSdjiXDNuvi
-RcuMDe8lwktJ3p4axogxum1Hzqo9eN7PX11a20zLJASJGxjOC2YxZiY6Bn0MRPbS
-m76Fim+iacC6nN49zWz+xh7PENGHfTHtgBYK8Cf33z+aYbb4QVQ=
-=vP3B
+iQIzBAEBCgAdFiEEyxxm686R8+k6pxF+hJ6xOwqkj/cFAmqRZ6IACgkQhJ6xOwqk
+j/dV+w//Q96Pbb7nlait9oXTbMPL2mv1MPr8vLcQVGhditKvnzSQILqacZxDEh09
+8lO6uiaiDyXU7UrLhpJU+IPMSbltkoeNURpiC+5GiLeevjda91i9pHxpHkqrgD71
+Ttoh/sSak+eoQR8zd3uZmYgIY4y2uHjK4xyL2LXDtzV3y/Br3sre7aUAmBtVLOZC
+g9F7z9eSxOznzjseuGvNdTAj8qBHnLRHz8z/nefxWrts53619bN6GuTVcaBFNEIy
+JPimNngPwpZHYL49coMELlgPgo1O+ZSPaXDhVWjOG63hpWCXmycIJLYn5pOuP9ra
+lg7QOGI/N/fl1+TK38gBc663rse1UwwHK30cJhqtuMqcgu4IwIdViXKNYwuso10t
+J61UWhAz0DuoEqukPDLLqg+k9+LKO3G0h+KQO0k/COTgDpZLBlit41GBVzKBGuHZ
+9UmgUrXtUmSXad3xRk/NudTVuV/XkcJWfHej/iOwc547Q3aKy8dNQCCiq5/zM9WK
+HF3j7KeLz2YoH8LJFWVdYMS+JOoys/mgGUQDG3SbmahL1HAG3kjlxNbDBzxEJHWC
+zedNDyQiaxgJWtILJQIGUMnFp1xOeYinFh2m7T/ZnNZbNHbaUDKmTHAg5XA4H0NB
+ykMDahMsEPXfcoLMqXDH6EO/odNcQufDTEtRWY98Xy+/nzfyODc=
+=9pmS
 -----END PGP SIGNATURE-----

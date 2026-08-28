@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 28 Aug 2026 10:46:46 +0000
+Date: Fri, 28 Aug 2026 10:49:06 +0000
 Label: Captain Kill Switch
 Origin: Captain Kill Switch
 Suite: stable
 MD5Sum:
- c0181ae1ae3b8c9584baa30b7d77e150              162 Release
+ 09fd7a5a9ab5661b363f3266f93ac626              162 Release
  588b2e45150f782f293e1d2097b6ca4a             1450 main/binary-amd64/Packages
- 3ff5ad20e88f94280d5372b5ea0cbc05              765 main/binary-amd64/Packages.gz
+ 3f73564bdcd4f69248dd184b1e624e0b              765 main/binary-amd64/Packages.gz
 SHA1:
- affeaa811c05685ef73db49697fb06d5297d4860              162 Release
+ 325d3b381c1cef36df0140b13b6898371346763c              162 Release
  b837f74bba0e047c2a98717c2a7c858049a68af2             1450 main/binary-amd64/Packages
- 27a3dcf7aac64058d7b04d30bbdd426164339ff2              765 main/binary-amd64/Packages.gz
+ bc26102439ea52936831799381af51c1aba55122              765 main/binary-amd64/Packages.gz
 SHA256:
- 6e3c6ce42b41b2be3d732720f0e195186830e520421b504b62f976151679968d              162 Release
+ 23c76a0811d907bb8f05400c6e1756b18c3b1fa71b30b66a40cba68ffe3ba6a9              162 Release
  625ff95c5bf8e2f5269869db2d10ea36c9b568c21a28bca4b13ad4e9c288d253             1450 main/binary-amd64/Packages
- 475f4ac48122d998663c2697ac1618ad444b85f5eb5ef1c0f9cc8daf6189ec13              765 main/binary-amd64/Packages.gz
+ dc56f2506d181daeaedf8b1454911024c0319074bfc0b1a6db087f5dff695e81              765 main/binary-amd64/Packages.gz
 SHA512:
- 6b1e7a4cbe8c95bd6d4690f832e1a3ecbd36551ca8401b82b348a251227b81885917473cc96f931793cf7432dae100a52f24b5530a5410cdb1c9b63ff540bab8              162 Release
+ 76f82c37fab2ab503938db7765579785936cf76b31a8fe40cefb72b65cd1dd02bb2de1563a5d143d3c7d316691444db28c538a280add4d5518275c8701da8ae0              162 Release
  68cccd069386b01e8013fa609c3544f7477b9c0d1fa5917ceccebd4ba80d3fad16532f126dafbad300c6319da47dd1024cc15a9f37e409e23b3ed2473a250c7a             1450 main/binary-amd64/Packages
- adaf8e58a2be89c3e0c9abbecf59d65cd473544ea4ee5892d345eeb5a2092162c6c7112105f09004bf54af14a89701ebf35b292f7a04e57eca5e99abc88d8e2c              765 main/binary-amd64/Packages.gz
+ 40cca5a57ea60db342bedc4d3d2fdc04a87dc09f042c3a3e74014bbbe424833503e7daa67a906ef77ee08f2090d7ced6d6e7e3ea3b87a9ead4820730c55c6eec              765 main/binary-amd64/Packages.gz
