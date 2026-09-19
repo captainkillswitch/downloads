@@ -1,0 +1,35 @@
+Package: captain-kill-switch
+Version: 0.4.6-1
+Architecture: amd64
+Maintainer: Captain Kill Switch Team <support@captainkillswitch.com>
+Installed-Size: 3498
+Filename: pool/main/c/captain-kill-switch/captain-kill-switch_0.4.6-1_amd64.deb
+Size: 1467076
+MD5sum: 53408f5916a83adea9d97c2b1095292e
+SHA1: fdbd29fac250980756219ecf38f5518ccff804fd
+SHA256: ba55120d249c1e1ec57fad025b05714aa0462d56f59efbeda42eb4882d2918b5
+Section: utility
+Priority: optional
+Description: Captain Kill Switch — system-tray app (webview-free; Linux + Windows)
+ Captain Kill Switch is a system tray application that closes every running
+ application with a single click. Webkit-free static binary; requires a
+ StatusNotifierItem-capable tray (standard on Ubuntu GNOME, KDE, and most
+ desktops).
+
+Package: cks
+Version: 0.1.4-1
+Architecture: amd64
+Maintainer: Captain Kill Switch Team <support@captainkillswitch.com>
+Installed-Size: 797
+Filename: pool/main/c/cks/cks_0.1.4-1_amd64.deb
+Size: 340192
+MD5sum: 3d1aeb41e3209633db48b7dcf1547aae
+SHA1: 4ad266fa024eebb0e4cb09cc376ca6b0097778c5
+SHA256: 9e6dfdd1d7d5ab585ddb8cf111342a292eb21581ab148e89e164ea6f135e5b20
+Section: utils
+Priority: optional
+Description: Command-line Captain Kill Switch — force-quit every running GUI application
+ Command-line Captain Kill Switch: preview, confirm, and force-quit every
+ running GUI application from the terminal. Static binary; supports --dry-run,
+ --yes and machine-readable --json output.
+

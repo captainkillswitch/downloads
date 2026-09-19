@@ -1,0 +1,21 @@
+{
+  "version": "0.4.7",
+  "notes": "Captain Kill Switch v0.4.7",
+  "pub_date": "2026-09-19T09:21:35Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1lGUzF4MkJ5UjhlRGlyWU1OM003cEQ0dzVNOXl1MWE2K0piZlZyRndQUE1KMjBBa2FBRjFCMGVUclN4MHZNM2Z1djdiV1VKSWtLU2ZwaHdUbHdiblE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA5NDU1CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaC5hcHAudGFyLmd6CktCa2tRSE8ydDlMYTIzbGg2OG42SjhMNUg3SDhhTFBYT3Y5WGRZRHdXOXlFbk54WWdtb1p2WFIycE5za3hPK3RENXdPdEo2UVlYN3k4ZXJFbHdLTkFnPT0K",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-macos-x64-update.tar.gz"
+    }
+,
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1h2TGJCa0VyTzJSeUJORjZDcUR4NDUraHJCa2xqVHJVOVhENGFTbkQ4VUxwTWxGbGx2ZUc0Vm9kSFlkQnF3dXhQekNtNW1IYy9JVWhmVEVkU0NVVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA5NTc1CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaC5hcHAudGFyLmd6CkVPMFkvZyt0TWZsSEsrRHhuV1ArNmVHaGovWDBXZ0svS0g4SkFNRlp2RDlILys5Y0gwQnk1WnYvYkJObDhHc3h0aHpsdUNBNjZUbUQramFKR3dnV0FBPT0K",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-macos-arm64-update.tar.gz"
+    }
+,
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1RIaGZoUENSR1R2OW5SMzRsT1JiQ0Ryc1VoZXVHdDFqYnY3Y29tTGlyZ0pxWVpVUFNwRjN3ZDFRUzYwaDBxaTB1SVBXNHlkZHl1UkcrNUhENFF5N3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA5MzYyCWZpbGU6Y2FwdGFpbi1raWxsLXN3aXRjaC13aW5kb3dzLXVwZGF0ZS56aXAKK1hGK0hXVzJ6c1BWUEdma216T01zK2c3TG10UWFrdDJLYS9mYmY5bzBOU05sdytKK0tPMnFXTU5TY2xXL0JJZ0hJUnFobU9xZit1MmJQMkpJU25CQWc9PQo=",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-windows-update.zip"
+    }
+  }
+}
