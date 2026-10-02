@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1JCVEx2OGFTaDBLOUlqeDFxNnJ0QjRzS3MyRGxrcTRLZnVMZjB0cmo4MUY5c2Y3TGxqemZ5dnBVKzhZSjhUeStFZm1kNkdhYWJ1YlZ2K0RJNzRmRlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI0ODc4CWZpbGU6Q2FwdGFpbiBLaWxsIFN3aXRjaC5hcHAudGFyLmd6Cit3bHJ1KzdkYkV2MlBqZENKT0VHV0pJdW1Ubyt4Z2lQV2ljdWMyZnZJd2VpazUzMWErWHpzU2Q4U0hRZFRVbzNDYnFVcVJFcmRqeTl4UWlycEdFS0J3PT0K",
       "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-macos-arm64-update.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1loN1h1ZHBUejVURmJ0YmJKbjlVMzFlNFJGUmozTkJuWWJ6Si95RnljandoQWFYMFZCZUlTUm9HN3A1OVNlTVFpL1YrVUFOQUttUFF1LzlvNnBzdlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI1MjI5CWZpbGU6Y2FwdGFpbi1raWxsLXN3aXRjaC13aW5kb3dzLXVwZGF0ZS56aXAKRGdTQi9KSS8ybXN5R1NRMTY0SzZQWVJpREtEMitHYUU4VEdGeEcxaTE5UWZVZ0JaRzRGUEptcWZLazhUWmZkck1hbXlPR2NETDFFbG1WODIyZldaRFE9PQo=",
+      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-windows-update.zip"
     }
   }
 }

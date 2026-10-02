@@ -1,9 +1,0 @@
-{
-  "version": "0.4.11",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZlc4OVJrQUFyU1hDcGx1Y3ZmeXg3RTB6OG85eExpRVhJYlRSaG5rS0crcFRoQ3B3MnRBWjJjNG9BMDYvNjh3eG5tWnQzQTBQOWtMazMxT1JkZ1hkOElkN3hoTkZuQ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTI0ODcwCWZpbGU6Y2FwdGFpbi1raWxsLXN3aXRjaC13aW5kb3dzLXVwZGF0ZS56aXAKSEtLNmF1SGhUVTdCek5LeldpVndMSm5KUlJWcTNwUVdhYnZyeUtqNThoQkkyQkpMcExJNGhtcEZwOVdDUSsrajlnVi9uaUM4Zlp5ZkpFR0taVTl2Q2c9PQo=",
-      "url": "https://captainkillswitch.github.io/downloads/captain-kill-switch-windows-update.zip"
-    }
-  }
-}
