@@ -28,15 +28,16 @@ download can be checked against the version it claims to be:
 shasum -a 256 captain-kill-switch-*-linux-amd64.deb
 ```
 
-macOS builds are Developer ID signed and notarised by Apple. Linux installs
-from the signed apt repository above. Windows builds are not code-signed yet,
-so SmartScreen will warn on first run — click **More info → Run anyway**; it
-flags anything it has not seen downloaded widely, regardless of what it does.
+macOS builds are Developer ID signed and notarised by Apple. Windows installers
+(`.exe` and `.msi`) are Authenticode-signed by DRAGON HEDGE PTY LTD. Linux
+installs from the signed apt repository above. Auto-updates are verified
+against a minisign signature pinned in `latest.json`.
 
 ## Install
 
-Full instructions, including Homebrew, Scoop, apt and AUR, are on the
-[download page](https://captainkillswitch.com/#download). Per-platform pages:
+Full instructions, including Homebrew, winget, Scoop and apt, are on the
+[download page](https://captainkillswitch.com/#download). Arch Linux: the AUR
+package is [`captain-kill-switch-bin`](https://aur.archlinux.org/packages/captain-kill-switch-bin). Per-platform pages:
 [macOS](https://captainkillswitch.com/mac) ·
 [Windows](https://captainkillswitch.com/windows) ·
 [Linux](https://captainkillswitch.com/linux)
