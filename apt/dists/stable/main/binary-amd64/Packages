@@ -1,13 +1,13 @@
 Package: captain-kill-switch
-Version: 0.4.11-1
+Version: 0.4.12-1
 Architecture: amd64
 Maintainer: Captain Kill Switch Team <support@captainkillswitch.com>
-Installed-Size: 3505
-Filename: pool/main/c/captain-kill-switch/captain-kill-switch_0.4.11-1_amd64.deb
-Size: 1472360
-MD5sum: 6eecd43b5b2ee8d112257c4bcdf53b88
-SHA1: 462532bfaf0011c0057393cb4b42a823632f448a
-SHA256: d53133e620b15116c368d6e00701f586db670fb4515832ce644fa0183ed691b4
+Installed-Size: 3541
+Filename: pool/main/c/captain-kill-switch/captain-kill-switch_0.4.12-1_amd64.deb
+Size: 1486752
+MD5sum: d30f1c1026560947d2f8cf48c5a2560c
+SHA1: 3dbbd06fcf368d00141145e53f95d5f9f6fd9c2f
+SHA256: 2e5712d79bf81f28a1bdf008d03ecd45c7a590a526d3680b33435c90a8df8e40
 Section: utility
 Priority: optional
 Description: Captain Kill Switch — system-tray app (webview-free; Linux + Windows)
@@ -22,10 +22,10 @@ Architecture: amd64
 Maintainer: Captain Kill Switch Team <support@captainkillswitch.com>
 Installed-Size: 809
 Filename: pool/main/c/cks/cks_0.1.4-1_amd64.deb
-Size: 327076
-MD5sum: 0d2d368e2944e04bb0550860fb763cca
-SHA1: 5bc8cf50885eca7a5962e8b9723750a1e794aaf4
-SHA256: 6e43a90cfc332db73e04646e152f2e38b8cf5e306c983b9b5bb941e7a0f1fa3a
+Size: 327092
+MD5sum: 023d8c2639e57701d0859ca40fe1903e
+SHA1: 891ec8a104ab8303151706ce0f14af149343d1c7
+SHA256: 697deb518b2f0606f200c0445675f9f1cd2422b5c1fc1db6bbea0bcb0d1ebe5f
 Section: utils
 Priority: optional
 Description: Command-line Captain Kill Switch — force-quit every running GUI application
