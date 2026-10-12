@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 08 Oct 2026 01:12:35 +0000
+Date: Mon, 12 Oct 2026 01:41:16 +0000
 Label: Captain Kill Switch
 Origin: Captain Kill Switch
 Suite: stable
 MD5Sum:
- 6f1df28244d187b32b210634b12f52e5              162 Release
- 66f440e22d13d0fbdd605a29de53efc3             1452 main/binary-amd64/Packages
- 0761c2a3b2b80bb221bb55010a000f43              769 main/binary-amd64/Packages.gz
+ fc594fcd8952b875739ad36d1f9b9676              162 Release
+ ec04f5cdcb097c0ef2f2710120940fac             1452 main/binary-amd64/Packages
+ ffb39d4c11db9b583adf4baa8df5e17d              763 main/binary-amd64/Packages.gz
 SHA1:
- 7ea99189e6c8807b9f08db50c117cf482d4f864d              162 Release
- bdc41c7c4bf7c2896dc7b393c8a9ca9dde0aa5a2             1452 main/binary-amd64/Packages
- df75228f27b1a4c267daac73c5b603a29b954190              769 main/binary-amd64/Packages.gz
+ 4bc52ad1054d614eef398b5c4d4fdd871fecde48              162 Release
+ 4c8f15388b8a03297c3e87f8ac9581e577788623             1452 main/binary-amd64/Packages
+ b2feca0169d07464624af4a01e3c342801ba2294              763 main/binary-amd64/Packages.gz
 SHA256:
- 1e24fd22ef5acd468fbda925b2087d3c84a43f83d2bd9f0f281bda1a5f3dea6a              162 Release
- 418f85b17c224917b7e31996e167aa801ca288c22bdb52fab8eeb7d6d5dcaabf             1452 main/binary-amd64/Packages
- ca2ed309bd7cf7371a9b21029cf1e80c12901308b2f45638c25b8005c497a1d4              769 main/binary-amd64/Packages.gz
+ 85228fb8dd132599f8ef30b091dc7d9b65278dc67d7a36c0cfe360a5af3cc0dd              162 Release
+ 823c9352814bcf1560fb7376952d5933a03f160427299707277456466351fe4d             1452 main/binary-amd64/Packages
+ 53603e88f0188e9cc2720e86b591e31ee232601ef54222074f140e28419b46e4              763 main/binary-amd64/Packages.gz
 SHA512:
- 2515df65c71d24256705ac556403cd28515d1c15e3e60c2e6d9a4e92ff415c4253c1d29f8338b60f160bb64892feadb6c9bd894e6218606737d1894cb6abc627              162 Release
- 59cd958940f43f0aaaf9c05ae320a239a53eb168d80481bc1a1a180139a753b20ae2076db8a49bd9f712aa7dbe2f2f53eac310d3025038796c2a25e051e9b747             1452 main/binary-amd64/Packages
- 7be9daf6d51970e4179f0188349d744c34f72f5be1e6330df5864e15c8ba22f501b6339021aa7503e15e6c51dc35735bab3d87912672929ae804ebc9b75dee1d              769 main/binary-amd64/Packages.gz
+ c4074c71150cec0e65ea6a503d3221709d042c7d5ac6936780f29c41666c12b70e326e50e498dd5bc16b678396e169ed1bd9aba235c7f6e150cf85ebcab3ac00              162 Release
+ 743d569bed1a5813f6d9edbdfe996ebb1401e95d88a2cdcb37ec5c3c298376067837f68f719710331518137ca5258cd423f1d82991efac3e011a269801fe13cc             1452 main/binary-amd64/Packages
+ 88e4414ce7cb839aadf535bc7fb242ae9d9533a99c9baeddf65ccbe3ddc24c88a20d547056d84e648ce361385f76e42b2b90166b9f9234506fe8013fac8acb75              763 main/binary-amd64/Packages.gz
